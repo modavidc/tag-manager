@@ -2,7 +2,7 @@
 
 Tag Manager is an app that allows you to manage tags. Ideal for all those who need to implement a labeling system within their organization.
 
-Final Project of the Basic Testing Course (PHP + Laravel) in <a href="https://platzi.com">@platzi</a>
+Final Project of the Basic Testing Course (PHP + Laravel) in <a href="https://platzi.com">Platzi.</a>
 
 ## 🔨 Technologies
 
