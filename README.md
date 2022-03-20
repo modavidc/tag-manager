@@ -22,15 +22,11 @@ Final Project of the Basic Testing Course (PHP + Laravel) in <a href="https://pl
 
 `cd tag-manager`
 
-3. Install all the dependencies using composer
-
-`composer install`
-
-4. Copy the example env file and make the required configuration changes in the .env file
+3. Copy the example env file and make the required configuration changes in the .env file
 
 `cp .env.example .env`
 
-5. Run install.sh script
+4. Run install.sh script
 
 `sh install.sh`
 
