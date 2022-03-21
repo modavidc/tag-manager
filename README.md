@@ -52,8 +52,6 @@ Final Project of the Basic Testing Course (PHP + Laravel) in <a href="https://pl
   <img src = "https://contrib.rocks/image?repo=modavidc/tag-manager"/>
 </a>
 
-Made with [contributors-img](https://contrib.rocks).
-
 ## 📝 License
 
 Copyright © 2022 [modavidc](https://github.com/modavidc).<br />
@@ -61,4 +59,5 @@ This project is [MIT](https://github.com/kefranabg/readme-md-generator/blob/mast
 
 ---
 
+_Made with [contributors-img](https://contrib.rocks).
 _This README was generated with ❤️ by [readme-md-generator](https://github.com/kefranabg/readme-md-generator)_
