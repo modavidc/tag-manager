@@ -48,7 +48,7 @@ Final Project of the Basic Testing Course (PHP + Laravel) in <a href="https://pl
 
 ## 🤝 Contributing
 
-<a href = "https://github.com/Tanu-N-Prabhu/Python/graphs/contributors">
+<a href = "https://github.com/modavidc">
   <img src = "https://contrib.rocks/image?repo=modavidc/tag-manager"/>
 </a>
 
