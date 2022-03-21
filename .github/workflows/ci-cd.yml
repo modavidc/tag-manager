@@ -37,15 +37,24 @@ jobs:
  
      - name: Install dependencies
        run: composer install --no-ansi --no-interaction --no-scripts --no-suggest --no-progress --prefer-dist
- 
-     - name: Generate key
+
+     - name: Generate app key
        run: php artisan key:generate
  
      - name: Optimize app
        run: php artisan optimize
-  
-     - name: Execute tests
-       run: php artisan test
 
      - name: Dump autoload
        run: composer dump
+
+     - name: Execute tests
+        run: |
+          php artisan test
+        env:
+          APP_ENV: local
+          APP_URL: "http://127.0.0.1:8000"
+          DB_CONNECTION: mysql
+          DB_DATABASE: dusk
+          DB_PORT: ${{ job.services.mysql.ports[3306] }}
+          DB_USER: root
+
