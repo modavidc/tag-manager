@@ -43,9 +43,9 @@ jobs:
  
      - name: Optimize app
        run: php artisan optimize
-
+  
      - name: Execute tests
-       run: vendor/bin/phpunit --verbose
+       run: php artisan test
 
      - name: Dump autoload
        run: composer dump
