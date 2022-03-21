@@ -51,7 +51,7 @@
             </form>
         @endif
 
-        <h4 class="text-lg text-center font-bold mb-6">Tagss</h4>
+        <h4 class="text-lg text-center font-bold mb-6">Tags</h4>
 
         <table class="table-auto">
             <thead>
