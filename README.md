@@ -46,7 +46,7 @@ Final Project of the Basic Testing Course (PHP + Laravel) in <a href="https://pl
 - Github: [@modavidc](https://github.com/modavidc)
 - Twitter: [@modavidc](https://twitter.com/modavidc)
 
-## 🤝 Contributing
+## 🤝 Contributors
 
 <a href = "https://github.com/modavidc">
   <img src = "https://contrib.rocks/image?repo=modavidc/tag-manager"/>
