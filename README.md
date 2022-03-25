@@ -16,11 +16,11 @@ Final Project of the Basic Testing Course (PHP + Laravel) in <a href="https://pl
 
 1. Clone the repository
 
-`git clone https://github.com/modavidc/tag-manager.git`
+`git clone https://github.com/modavidc/tag-manager-laravel.git`
 
 2. Switch to the repo folder
 
-`cd tag-manager`
+`cd tag-manager-laravel`
 
 3. Copy the example env file and make the required configuration changes in the .env file
 
@@ -49,7 +49,7 @@ Final Project of the Basic Testing Course (PHP + Laravel) in <a href="https://pl
 ## 🤝 Contributors
 
 <a href = "https://github.com/modavidc">
-  <img src = "https://contrib.rocks/image?repo=modavidc/tag-manager"/>
+  <img src = "https://contrib.rocks/image?repo=modavidc/tag-manager-laravel"/>
 </a>
 
 ## 📝 License
