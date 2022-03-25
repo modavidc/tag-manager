@@ -17,3 +17,10 @@ use Illuminate\Support\Facades\Route;
 Route::middleware('auth:sanctum')->get('/user', function (Request $request) {
     return $request->user();
 });
+
+Route::get('v1', [App\Http\Controllers\Api\TagController::class, 'index']);
+Route::get('v1/tags', [App\Http\Controllers\Api\TagController::class, 'index']);
+Route::get('v1/tags/{tag}', [App\Http\Controllers\Api\TagController::class, 'edit']);
+Route::put('v1/tags/{tag}', [App\Http\Controllers\Api\TagController::class, 'update']);
+Route::post('v1/tags', [App\Http\Controllers\Api\TagController::class, 'store']);
+Route::delete('v1/tags/{tag}', [App\Http\Controllers\Api\TagController::class, 'destroy']);

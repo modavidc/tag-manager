@@ -4,7 +4,7 @@
 <head>
     <meta charset="utf-8">
     <meta name="viewport" content="width=device-width, initial-scale=1">
-    <title>Tag Manager</title>
+    <title>Tag Manager Laravel</title>
     <script src="https://cdn.tailwindcss.com"></script>
     <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.1.0/css/all.min.css">
 </head>
@@ -22,7 +22,7 @@
         <div class="flex justify-between">
             <a class="flex items-center mb-5 text-purple-500 font-bold" href="/">
                 <i class="fas fa-tags"></i>
-                <span class="ml-1">Tag Manager</span>
+                <span class="ml-1">Tag Manager Laravel</span>
             </a>
 
             @if(isset($tag))

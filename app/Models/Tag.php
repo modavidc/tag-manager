@@ -13,6 +13,8 @@ class Tag extends Model
         'name'
     ];
 
+    protected $appends = ['slug'];
+
     public function getSlugAttribute(): String
     {
         return strtolower(
