@@ -18,7 +18,7 @@ Final Project of the Basic Testing Course (PHP + Laravel) in <a href="https://pl
 
 `git clone https://github.com/modavidc/tag-manager-laravel.git`
 
-2. Switch to the repo folder
+2. Switch to the repo folder 
 
 `cd tag-manager-laravel`
 
